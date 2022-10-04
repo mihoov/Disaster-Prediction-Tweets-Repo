@@ -156,8 +156,6 @@ All of the codings for this project were done in Jupyter Notebook either on our 
 As far as big data analysis and visualization systems we employed Pandas and Matplotlib. From big data modeling, machine learning, and deep learning systems we used TensorFlow, Scikit-learn, and Keras. Lastly from big data stream and time-series processing systems, our group looked into Spark Streaming.
 One idea our group did have was to attempt to store tweets in No-SQL such as Mongo DB. This would have been useful if we streamed a large number of tweets using Spark then these tweets could have been stored and used later to train future model iterations. However, given the large hurdle to set up Spark and the little benefit until the project scaled we decided against this idea.
  
-Team Contributions
-Michael Hoover and Julian Roberts worked in collaboration on all tasks discussed in the previous sections. Swarupa Killamsetty did not provide any meaningful contribution to the project regardless of being given many opportunities and easier tasks to complete.
  
 References
 Natural language processing with disaster tweets. Kaggle. (n.d.). Retrieved December 10, 2021, from https://www.kaggle.com/c/nlp-getting-started/overview. 
